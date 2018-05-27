@@ -1,0 +1,12 @@
+c:\users\dragon h4x0r\documents\visual studio 2013\Projects\HWID Clean\HWID Clean\bin\Debug\HWID Clean.exe.config
+c:\users\dragon h4x0r\documents\visual studio 2013\Projects\HWID Clean\HWID Clean\bin\Debug\HWID Clean.exe
+c:\users\dragon h4x0r\documents\visual studio 2013\Projects\HWID Clean\HWID Clean\bin\Debug\HWID Clean.pdb
+c:\users\dragon h4x0r\documents\visual studio 2013\Projects\HWID Clean\HWID Clean\bin\Debug\HWID Clean.xml
+c:\users\dragon h4x0r\documents\visual studio 2013\Projects\HWID Clean\HWID Clean\obj\Debug\HWID_Clean.Resources.resources
+c:\users\dragon h4x0r\documents\visual studio 2013\Projects\HWID Clean\HWID Clean\obj\Debug\HWID Clean.vbproj.GenerateResource.Cache
+c:\users\dragon h4x0r\documents\visual studio 2013\Projects\HWID Clean\HWID Clean\obj\Debug\HWID Clean.exe
+c:\users\dragon h4x0r\documents\visual studio 2013\Projects\HWID Clean\HWID Clean\obj\Debug\HWID Clean.xml
+c:\users\dragon h4x0r\documents\visual studio 2013\Projects\HWID Clean\HWID Clean\obj\Debug\HWID Clean.pdb
+c:\users\dragon h4x0r\documents\visual studio 2013\Projects\HWID Clean\HWID Clean\obj\Debug\HWID_Clean.Formulario.resources
+c:\users\dragon h4x0r\documents\visual studio 2013\Projects\HWID Clean\HWID Clean\obj\Debug\HWID_Clean.Erro.resources
+C:\Users\Dragon H4x0r\documents\visual studio 2013\Projects\HWID Clean\HWID Clean\obj\Debug\HWID Clean.vbprojResolveAssemblyReference.cache
